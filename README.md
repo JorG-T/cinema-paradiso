@@ -4,8 +4,8 @@ Cinema Paradiso project build with a frontend built in React & Redux and a backe
 ```
 ## Live Demo
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://cinema-deept228.netlify.app/) here!!
-Check out [API LIVE DEMO](https://cinema-backend-38xb.onrender.com) here!!
+Check out [FRONTEND LIVE DEMO](https://jeorge-cinema.netlify.app) here!!
+Check out [API LIVE DEMO](https://cinema-backend-shu3.onrender.com/) here!!
 
 ## Tech used
 ```
